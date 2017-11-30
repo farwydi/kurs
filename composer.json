@@ -1,5 +1,5 @@
 {
-  "name": "icddex/kurs",
+  "name": "farwydi/kurs",
   "description": "currency",
   "license": "Close",
   "authors": [
@@ -11,7 +11,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "git@gitlab.com:icddex/DEXParserEnvironment.git"
+      "url": "git@github.com:farwydi/parser-environment.git"
     }
   ],
   "require": {
