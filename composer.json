@@ -15,7 +15,7 @@
     }
   ],
   "require": {
-    "icddex/parser-environment": "^1",
+    "farwydi/parser-environment": "^1",
     "zendframework/zendframework": "^3.0"
   }
 }
